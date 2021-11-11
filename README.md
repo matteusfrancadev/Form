@@ -13,7 +13,7 @@ Formulário usando HTML e CSS para praticar as tecnologias
 
 ### Ajustes e melhorias
 
-O projeto concluído e essas foram as tarefas: 
+O projeto foi concluído e essas foram as tarefas: 
 
 - [x] Estruturar com HTML
 - [x] Estilizar com Css
